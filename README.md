@@ -6,6 +6,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Live](#live)
 
 ## General info
 This project was made for my friend, to help her with her art studies.
@@ -24,3 +25,6 @@ To run this project, install it locally using npm:
 $ npm install
 $ npm run build
 ```
+
+## Live
+You can see it live at [https://kubafila.github.io/faces/](https://kubafila.github.io/faces/).
