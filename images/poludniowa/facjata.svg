@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="93.57563mm"
+   height="119.27773mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 9357.563 11927.773"
+   id="svg10"
+   sodipodi:docname="facjata.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="753"
+   inkscape:window-height="480"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="148.55119"
+   inkscape:cy="271.06204"
+   inkscape:window-x="63"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#E7B59A}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-10919.583,-3328.1502)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 19803,11665 c -267,785 -717,1600 -1292,2209 -575,608 -1276,1010 -1932,1219 -656,209 -1267,226 -2002,-2 -735,-228 -1595,-701 -2250,-1616 -655,-916 -1104,-2274 -1295,-3524 -191,-1250 -124,-2391 91,-3333 215,-942 579,-1685 1153,-2228 574,-543 1358,-888 2248,-1010 890,-122 1884,-23 2885,237 1001,260 2007,680 2480,1666 473,986 411,2537 338,3690 -73,1153 -157,1908 -424,2693 z"
+   id="path7" />
+ </g>
+</svg>

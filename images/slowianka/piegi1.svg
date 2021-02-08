@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="13.93mm"
+   height="8.8000002mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 1393 880.00002"
+   id="svg19"
+   sodipodi:docname="piegi1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="753"
+   inkscape:window-height="480"
+   id="namedview21"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="-21.089762"
+   inkscape:cy="37.039371"
+   inkscape:window-x="63"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg19" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#CD877A}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-15408,-9520)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_2067228585696">
+   <ellipse
+   class="fil0"
+   cx="16052"
+   cy="9981"
+   rx="74"
+   ry="70"
+   id="ellipse7" />
+   <ellipse
+   class="fil0"
+   cx="15561"
+   cy="9590"
+   rx="74"
+   ry="70"
+   id="ellipse9" />
+   <ellipse
+   class="fil0"
+   cx="15482"
+   cy="10186"
+   rx="74"
+   ry="70"
+   id="ellipse11" />
+   <ellipse
+   class="fil0"
+   cx="16727"
+   cy="9764"
+   rx="74"
+   ry="70"
+   id="ellipse13" />
+   <ellipse
+   class="fil0"
+   cx="16679"
+   cy="10330"
+   rx="74"
+   ry="70"
+   id="ellipse15" />
+  </g>
+ </g>
+</svg>

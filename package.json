@@ -1,0 +1,14 @@
+{
+  "name": "faces",
+  "version": "1.0.0",
+  "description": "Projekt na studia artystyczne",
+  "main": "index.html",
+  "scripts": {
+    "build": "parcel bulid index.html --public-url ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}

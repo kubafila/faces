@@ -1,0 +1,72 @@
+/* preview_azja.png */
+.sprite0
+{
+background:url('/images/css-sprites.png') 0px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+
+/* preview_celtycka.png */
+.sprite1
+{
+background:url('/images/css-sprites.png') -1921px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+
+/* preview_nordycka.png */
+.sprite2
+{
+background:url('/images/css-sprites.png') -3842px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+
+/* preview_poludniowa.png */
+.sprite3
+{
+background:url('/images/css-sprites.png') -5763px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+
+/* preview_slowianska.png */
+.sprite4
+{
+background:url('/images/css-sprites.png') -7684px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+
+/* preview_sniezka.png */
+.sprite5
+{
+background:url('/images/css-sprites.png') -9605px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+
+/* preview_srodkowoeuropejska_braz.png */
+.sprite6
+{
+background:url('/images/css-sprites.png') -11526px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+
+/* preview_srodkowoeuropejska_zielen.png */
+.sprite7
+{
+background:url('/images/css-sprites.png') -13447px -0px;
+display:inline-block;
+width:1921px;
+height:1081px;
+}
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="27.959999mm"
+   height="39.293274mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 2795.9999 3929.3274"
+   id="svg10"
+   sodipodi:docname="policzek2.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1857"
+   inkscape:window-height="1057"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="-61.870865"
+   inkscape:cy="17.813953"
+   inkscape:window-x="55"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#CD877A;fill-opacity:0.501961}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-16487,-10028.673)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 19282,10043 c -92,-29 -219,-17 -387,64 -379,181 -968,706 -1298,1195 -66,97 -1102,2625 -1110,2656 323,-241 639,-506 922,-787 862,-855 1413,-1855 1865,-3104 l 9,-24 z"
+   id="path7" />
+ </g>
+</svg>

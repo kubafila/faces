@@ -1,0 +1,61 @@
+.face{
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+
+  width: 80vmin;
+  min-width: 200px;
+  height: 80vmin;
+  min-height: 200px;
+  margin: 20px auto;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+}
+
+[data-face='asia']{
+  background-image: url('../images/azjatycki/face-padding-azja.png');
+}
+
+[data-face='celtic']{
+  background-image: url('../images/celtycka/face-padding-celtycka.png');
+}
+
+[data-face='nordic']{
+  background-image: url('../images/nordycki/face-padding-nordycka.png');
+}
+
+[data-face='south']{
+  background-image: url('../images/poludniowa/face-padding-poludniowa.png');
+}
+
+[data-face='slavic']{
+  background-image: url('../images/slowianka/face-padding-slowianka.png');
+}
+
+[data-face='snow']{
+  background-image: url('../images/snieżka/face-padding-sniezka.png');
+}
+
+[data-face='europe-brown']{
+  background-image: url('../images/srodkowoeuropejski_brazowe_oczy/face-padding-europa-braz.png');
+}
+
+[data-face='europe-green']{
+  background-image: url('../images/srodkowoeuropejski_zielone_oczy/face-padding-europa-zielen.png');
+}
+
+
+
+@media (min-width: 1000px){
+  .face{
+    width: auto;
+    height: auto;
+    margin: 0;
+
+    background-repeat: no-repeat;
+  }
+}
+

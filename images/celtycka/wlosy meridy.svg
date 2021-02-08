@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="149.96465mm"
+   height="179.34024mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 14996.465 17934.024"
+   id="svg10"
+   sodipodi:docname="wlosy meridy.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1004"
+   inkscape:window-height="480"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="309.36064"
+   inkscape:cy="317.20348"
+   inkscape:window-x="62"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#9C3420}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-6664.8331,-2107.3245)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 15967,5097 c -179,-84 -561,225 -908,316 -347,91 -658,-35 -819,113 -162,148 -173,571 -273,894 -100,323 -288,546 -611,617 -323,70 -781,-12 -1008,81 -227,93 -222,361 -365,553 -142,192 -432,308 -734,380 -302,72 -616,99 -591,628 25,529 388,1560 485,2236 97,675 -73,995 -283,1158 -210,163 -460,169 -460,421 1,252 252,749 242,1204 -10,455 -281,868 -311,1356 -30,488 181,1052 70,1434 -112,382 -546,582 -541,765 5,184 450,351 579,720 129,369 -59,938 -297,1097 -238,159 -526,-94 -989,48 -463,142 -1102,680 -1568,855 -466,175 -760,-13 -772,-260 -12,-247 258,-552 429,-834 170,-282 241,-540 141,-752 -100,-211 -370,-376 -388,-722 -18,-347 217,-875 223,-1251 6,-376 -217,-599 -276,-922 -59,-323 47,-746 -18,-1122 -65,-376 -300,-705 -253,-1069 47,-364 376,-764 382,-1269 6,-505 -311,-1116 -312,-1451 0,-335 316,-395 384,-859 68,-464 -114,-1333 -128,-1920 -14,-587 138,-892 397,-1142 258,-250 623,-443 805,-717 182,-273 182,-626 429,-952 247,-326 740,-626 1016,-863 276,-238 335,-414 464,-537 129,-123 329,-194 629,-264 300,-70 699,-141 896,-273 197,-132 191,-326 537,-449 347,-123 1046,-176 1668,-209 623,-32 1169,-44 1607,0 438,44 767,144 934,392 167,248 173,644 252,735 79,91 232,-123 585,-253 353,-130 905,-177 1307,87 402,264 655,840 937,1157 282,317 593,376 781,846 188,470 253,1351 555,1962 303,611 843,952 843,1492 0,540 -540,1281 -517,1950 23,670 611,1269 532,1797 -79,529 -825,987 -913,1301 -88,314 482,485 505,861 23,376 -499,957 -529,1427 -29,470 435,828 463,1399 29,571 -378,1355 -725,1571 -347,216 -635,-137 -1107,-73 -472,63 -1129,542 -1407,382 -278,-160 -178,-959 -55,-1405 124,-446 272,-538 260,-802 -12,-264 -183,-701 -234,-1007 -51,-306 19,-482 39,-819 20,-337 -10,-836 -82,-1102 -72,-266 -185,-299 -123,-643 62,-344 300,-1000 343,-1451 43,-451 -110,-698 -51,-1041 59,-344 329,-784 271,-1066 -58,-282 -444,-405 -550,-737 -106,-332 69,-872 33,-1119 -36,-247 -283,-200 -459,-270 -176,-70 -282,-258 -417,-411 -135,-153 -300,-270 -441,-458 -141,-188 -258,-446 -305,-814 -47,-367 -23,-843 -203,-927 z"
+   id="path7" />
+ </g>
+</svg>

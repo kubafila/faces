@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="17.33592mm"
+   height="36.355484mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 1733.592 3635.5484"
+   id="svg10"
+   sodipodi:docname="nos meridy.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1004"
+   inkscape:window-height="480"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="54.247557"
+   inkscape:cy="39.179639"
+   inkscape:window-x="62"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#E4B9AF}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-13414.7,-9463.3721)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 14470,10048 c 21,288 88,709 151,1013 62,304 120,491 248,662 129,171 329,327 268,554 -61,227 -384,524 -580,685 -196,161 -266,186 -474,43 -208,-143 -556,-454 -644,-685 -88,-232 82,-384 207,-555 125,-171 205,-360 257,-633 52,-273 77,-629 88,-927 11,-298 8,-536 90,-653 82,-116 250,-110 321,-29 71,81 46,236 67,525 z"
+   id="path7" />
+ </g>
+</svg>

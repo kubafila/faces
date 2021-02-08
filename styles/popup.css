@@ -1,0 +1,79 @@
+.popup{
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+
+  width: 100vw;
+  max-width: 100%;
+  height: 50vh;
+
+  transition-delay: 0;
+  transition-timing-function: ease-in-out;
+  transition-duration: 300ms;
+  transition-property: transform, opacity;
+  transform: scale(0.2);
+  text-align: right;
+  pointer-events: none;
+
+  opacity: 0;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: contain;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+  0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.popup--visible{
+  transform: scale(0.8) ;
+  pointer-events: auto;
+
+  opacity: 1;
+}
+
+
+.popup--asia{
+  background-image: url('../images/preview-sprite/preview_azja.png');
+}
+
+.popup--celtic{
+  background-image: url('../images/preview-sprite/preview_celtycka.png');
+}
+
+.popup--nordic{
+  background-image: url('../images/preview-sprite/preview_nordycka.png');
+}
+
+.popup--south{
+  background-image: url('../images/preview-sprite/preview_poludniowa.png');
+}
+
+.popup--slavic{
+  background-image: url('../images/preview-sprite/preview_slowianska.png');
+}
+
+.popup--snow{
+  background-image: url('../images/preview-sprite/preview_sniezka.png');
+}
+
+.popup--europe-brown{
+  background-image: url('../images/preview-sprite/preview_srodkowoeuropejska_braz.png');
+}
+
+.popup--europe-green{
+  background-image: url('../images/preview-sprite/preview_srodkowoeuropejska_zielen.png');
+}
+
+.popup__close{
+  width: 100px;
+  height: 100px;
+
+  background-image: url('../images/UI/close-icon.svg');
+}
+
+
+@media(min-width: 1000px){
+  .popup{
+    height: 100vh;
+  }
+}

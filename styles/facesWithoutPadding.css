@@ -1,0 +1,37 @@
+.twarz{
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+[data-face='azja']{
+  background-image: url('../images/azjatycki/face-azja.png');
+}
+
+[data-face='celtycka']{
+  background-image: url('../images/celtycka/face-celtycka.png');
+}
+
+[data-face='nordycka']{
+  background-image: url('../images/nordycki/face-nordycka.png');
+}
+
+[data-face='poludnie']{
+  background-image: url('../images/poludniowa/face-poludniowa.png');
+}
+
+[data-face='slowianska']{
+  background-image: url('../images/slowianka/face-slowainska.png');
+}
+
+[data-face='sniezka']{
+  background-image: url('../images/snieżka/face-sniezka.png');
+}
+
+[data-face='srodkowa_europa_braz']{
+  background-image: url('../images/srodkowoeuropejski_brazowe_oczy/face-europa-braz.png');
+}
+
+[data-face='srodkowa_europa_zielona']{
+  background-image: url('../images/srodkowoeuropejski_zielone_oczy/face-europa-zielen.png');
+}

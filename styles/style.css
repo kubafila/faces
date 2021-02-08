@@ -1,0 +1,83 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body{
+  position: relative;
+
+  overflow-x: hidden;
+
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+}
+
+nav{
+  /*   border:1px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  height: 130px;
+
+  transition: filter 200ms ease-in-out;
+}
+
+.faces{
+  /* display: grid; */
+  transition: filter 200ms ease-in-out;
+
+  background-color: #ffffff;
+}
+
+button,
+.button{
+  cursor: pointer;
+
+  border: none;
+  outline: 0;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.logo{
+  width: 200px;
+  height: 100px;
+
+  background-image: url('../images/UI/logo.svg');
+}
+
+.strzalka{
+  width: 100px;
+  height: 100px;
+
+  background-image: url('../images/UI/arrow.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+[class*=hidden]{
+  z-index: 1;
+
+  pointer-events: none;
+
+  filter: blur(30px);
+}
+
+@media (min-width:1000px){
+  .faces{
+    display: grid;
+
+    height: calc(100% - 130px);
+
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 50px;
+  }
+}
