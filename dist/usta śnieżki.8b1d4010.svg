@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="28.630699mm"
+   height="10.689898mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 2863.0699 1068.9898"
+   id="svg10"
+   sodipodi:docname="usta śnieżki.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1857"
+   inkscape:window-height="1057"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="86.609195"
+   inkscape:cy="-160.79326"
+   inkscape:window-x="55"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#74291D}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-12558.465,-14754.322)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 14609,14854 c -148,-44 -254,-92 -344,-99 -90,-6 -164,29 -221,58 -23,11 -44,22 -61,30 -14,-7 -29,-14 -46,-23 -57,-28 -131,-64 -221,-58 -90,6 -196,55 -344,99 -198,58 -460,140 -656,185 -56,13 -132,13 -152,36 -20,23 16,69 79,94 341,131 -105,662 1316,647 1350,-15 1067,-535 1378,-654 63,-24 99,-70 79,-94 -20,-23 -96,-23 -152,-36 -189,-43 -476,-131 -656,-185 z m -768,342 c 175,28 141,24 351,5 -77,54 -139,127 -192,127 -1,0 -330,-158 -159,-132 z"
+   id="path7" />
+ </g>
+</svg>

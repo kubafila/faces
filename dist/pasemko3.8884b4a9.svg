@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="50.641922mm"
+   height="129.80513mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 5064.1922 12980.513"
+   id="svg10"
+   sodipodi:docname="pasemko3.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1857"
+   inkscape:window-height="1057"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="-111.76792"
+   inkscape:cy="225.59022"
+   inkscape:window-x="55"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#6D5346}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-17807.193,-4531.2589)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 22755,7870 c -45,194 -82,388 -99,587 -67,764 145,1601 201,2226 56,625 -45,1038 -418,1395 -374,357 -1021,658 -1088,1010 -67,351 446,753 407,1523 -39,770 -630,1908 -1495,2449 -865,541 -2003,485 -2340,391 -338,-95 126,-229 594,-580 469,-351 943,-921 873,-1356 -70,-435 -683,-736 -706,-1250 -22,-513 547,-1239 986,-2069 439,-831 749,-1766 869,-2617 71,-501 75,-972 49,-1424 121,-297 217,-506 316,-582 247,-190 515,457 705,524 190,67 301,-446 324,-1278 22,-831 -45,-1981 11,-2232 56,-251 234,396 296,937 61,541 6,976 167,1506 80,261 212,544 349,838 z"
+   id="path7" />
+ </g>
+</svg>

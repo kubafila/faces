@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="85.707291mm"
+   height="46.56842mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 8570.7291 4656.842"
+   id="svg10"
+   sodipodi:docname="grzywka śnieżki.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="753"
+   inkscape:window-height="480"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="194.48461"
+   inkscape:cy="214.86288"
+   inkscape:window-x="63"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#2F2F2E}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-9704.2614,-4815.0864)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 12390,5180 c 529,-177 949,-339 1450,-362 500,-23 1081,94 1539,216 458,122 792,251 1143,532 351,282 718,717 976,1155 258,438 406,879 509,1227 103,348 161,601 213,819 52,218 97,399 -12,525 -109,126 -371,198 -810,176 -440,-22 -1057,-136 -1551,-223 -494,-87 -866,-147 -1183,-285 -318,-139 -582,-356 -776,-553 -193,-196 -316,-372 -445,-541 -129,-169 -264,-332 -367,-459 -103,-127 -174,-218 -239,-133 -64,85 -122,345 -55,638 68,293 261,620 425,819 164,199 300,272 361,335 61,63 48,116 -98,170 -146,53 -424,107 -817,115 -392,8 -899,-29 -1317,-41 -418,-11 -749,4 -997,-64 -249,-68 -417,-219 -527,-488 -110,-269 -163,-656 -25,-1179 138,-523 466,-1181 950,-1606 484,-425 1123,-616 1652,-793 z"
+   id="path7" />
+ </g>
+</svg>

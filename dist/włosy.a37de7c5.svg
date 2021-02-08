@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="165.04126mm"
+   height="190.49921mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 16504.126 19049.921"
+   id="svg10"
+   sodipodi:docname="włosy.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1857"
+   inkscape:window-height="1057"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="307.1524"
+   inkscape:cy="354.08434"
+   inkscape:window-x="55"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#A2745A}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-6723.2595,-1131.5184)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 15021,4978 c -616,151 -1669,192 -2723,527 -1054,335 -2107,965 -2705,1691 -598,727 -740,1551 -593,2586 146,1035 581,2282 1149,3212 568,931 1270,1545 1514,2241 244,695 29,1472 -352,2209 -381,737 -928,1435 -1469,1818 -540,383 -1074,452 -1225,369 -151,-82 82,-315 103,-664 21,-349 -171,-814 -342,-1190 -171,-376 -322,-664 -424,-944 -103,-280 -157,-554 -96,-876 62,-322 239,-691 301,-1170 62,-479 7,-1067 -157,-1689 -164,-622 -438,-1277 -705,-1851 -267,-575 -527,-1069 -568,-1904 -41,-835 137,-2012 554,-2977 417,-965 1074,-1717 1936,-2456 862,-739 1929,-1464 2709,-1888 780,-424 1272,-547 1786,-609 513,-62 1047,-62 1464,164 712,385 569,292 825,87 319,-255 495,-436 741,-498 246,-62 506,-62 1245,185 739,246 1957,739 2812,1512 855,773 1348,1827 1724,3092 376,1266 636,2743 691,4187 55,1443 -96,2853 -308,4022 -212,1170 -486,2100 -711,2901 -226,800 -278,1571 -841,2148 -2173,2227 -1591,-78 -4472,-122 -507,-8 450,-747 942,-1219 493,-472 1177,-1211 1710,-1970 534,-759 917,-1539 1084,-2214 168,-675 120,-1246 -44,-1868 -164,-623 -445,-1297 -798,-1659 -353,-362 -780,-411 -1148,-704 -368,-293 -679,-830 -829,-1414 -149,-584 -138,-1216 -449,-1809 -311,-593 -944,-1147 -1364,-1683 -45,-58 -88,-115 -129,-173 -128,282 -339,477 -839,599 z"
+   id="path7" />
+ </g>
+</svg>

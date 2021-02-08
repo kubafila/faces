@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="27.842714mm"
+   height="9.9187651mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 2784.2714 991.87651"
+   id="svg13"
+   sodipodi:docname="usta meridy.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1004"
+   inkscape:window-height="480"
+   id="namedview15"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="73.913793"
+   inkscape:cy="-116.49717"
+   inkscape:window-x="62"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg13" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#E5543A}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-12894.364,-13582.321)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_2067138871504">
+   <path
+   class="fil0"
+   d="m 14887,13679 c -144,-42 -247,-90 -334,-96 -87,-6 -159,29 -215,56 -23,11 -42,21 -59,30 -13,-7 -28,-14 -44,-22 -55,-27 -127,-62 -215,-56 -87,6 -190,54 -334,96 -192,57 -447,136 -638,179 -54,12 -128,12 -148,35 -20,22 15,67 77,91 62,24 150,26 265,30 115,4 257,9 368,1 111,-7 191,-27 308,-16 359,34 379,27 737,-7 117,-11 197,9 308,16 111,7 253,3 368,-1 115,-4 203,-6 265,-30 62,-24 97,-68 77,-91 -20,-22 -93,-22 -148,-35 -184,-42 -462,-128 -638,-179 z"
+   id="path7" />
+   <path
+   class="fil0"
+   d="m 14233,14574 c 840,-8 895,-101 1257,-393 151,-122 -76,-126 -194,-129 -115,-3 -257,-7 -368,-1 -111,6 -191,23 -308,13 -162,-13 -262,110 -348,110 -105,0 -192,-120 -389,-104 -117,9 -197,-7 -308,-13 -111,-6 -253,-2 -368,1 -12,0 -193,-9 -162,105 65,238 418,418 1188,411 z"
+   id="path9" />
+  </g>
+ </g>
+</svg>
