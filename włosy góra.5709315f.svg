@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="118.20883mm"
+   height="91.925842mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 11820.883 9192.5842"
+   id="svg10"
+   sodipodi:docname="włosy góra.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="753"
+   inkscape:window-height="480"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="117.09255"
+   inkscape:cy="242.50616"
+   inkscape:window-x="62"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:20}
+    .fil0 {fill:#4C3A36}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-11751.926,-4083.6912)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0 str0"
+   d="m 17625,7563 c -543,15 -1110,-221 -1744,-138 -634,83 -1336,485 -1753,1004 -418,520 -551,1157 -730,1929 -179,771 -402,1677 -544,2124 -142,447 -203,437 -455,191 -252,-245 -694,-726 -631,-2050 63,-1324 632,-3492 1337,-4716 704,-1224 1544,-1505 2238,-1661 694,-156 1242,-188 1689,-115 446,73 791,252 1068,271 277,19 488,-121 775,-163 287,-41 650,16 1046,124 395,108 822,268 1319,539 496,271 1061,654 1511,1374 449,720 783,1779 810,2999 27,1221 -254,2604 -467,3334 -214,730 -360,806 -539,453 -179,-354 -389,-1138 -545,-1807 -156,-669 -258,-1224 -434,-1833 -175,-609 -424,-1272 -831,-1682 -407,-410 -973,-566 -1515,-512 -542,54 -1060,319 -1602,334 z"
+   id="path7" />
+ </g>
+</svg>

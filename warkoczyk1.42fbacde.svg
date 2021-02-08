@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="27.535044mm"
+   height="69.520065mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 2753.5044 6952.0065"
+   id="svg10"
+   sodipodi:docname="warkoczyk1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="753"
+   inkscape:window-height="480"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="1.1162388"
+   inkscape:cx="-48.769721"
+   inkscape:cy="78.093889"
+   inkscape:window-x="62"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#4C3A36}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="translate(-16140.366,-8433.7659)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 17273,8670 c -186,153 -298,357 -418,525 -120,168 -247,301 -232,507 15,207 173,487 278,694 105,207 156,339 79,398 -77,59 -281,43 -383,150 -102,107 -102,337 -33,553 69,217 207,421 417,608 210,187 493,358 578,409 84,51 -31,-18 -210,-1 -180,17 -425,119 -570,228 -145,110 -191,227 -179,479 13,252 84,640 -14,1026 -98,386 -366,769 -430,940 -64,170 76,127 283,24 207,-103 479,-266 455,-219 -24,47 -346,305 -344,374 1,70 325,-49 663,-177 338,-128 690,-266 912,-498 222,-232 314,-558 275,-901 -38,-343 -207,-703 -185,-940 22,-237 233,-352 384,-476 150,-124 240,-256 277,-419 37,-163 22,-357 -97,-543 -119,-186 -340,-365 -334,-540 6,-176 240,-349 323,-555 83,-207 15,-447 -35,-712 -49,-265 -80,-556 -203,-776 -123,-219 -338,-368 -575,-391 -237,-23 -496,79 -682,232 z"
+   id="path7" />
+ </g>
+</svg>
